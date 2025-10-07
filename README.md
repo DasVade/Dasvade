@@ -28,5 +28,5 @@ University of Pennsylvania | Shanghai Jiao Tong University (Joint Program)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=DasVade&color=blue)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasVade&layout=compact&theme=default)
