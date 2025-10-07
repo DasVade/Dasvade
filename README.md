@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m Yixiao Liu  
 
-<!--
-**DasVade/Dasvade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M.S. & B.S. Student in Mechanical Engineering**  
+University of Pennsylvania | Shanghai Jiao Tong University (Joint Program)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Research & Interests
+- 🤖 **Robotics Dynamics and Control** — modeling, simulation, and optimization  
+- 🧩 **Neural Representations for Robotics** — integrating AI with physical models  
+- ⚙️ **Physics-based Simulation** — rigid-body dynamics, kinematics, and control  
+
+---
+
+### 🚀 Projects
+- [**UR16e Robot Dynamics**](https://github.com/DasVade/UR16e-Robot-Dynamics):  
+  MATLAB simulation of a 6-DOF industrial manipulator (forward & inverse dynamics).
+
+- [**Cartpole Control**](https://github.com/DasVade/cartpole-control):  
+  LQR and energy-based swing-up control experiments in Python/Drake.
+
+---
+
+### 🛠 Skills
+**Languages:** Python, MATLAB, C++  
+**Tools:** SolidWorks, Simulink, Git, Drake  
+**Focus:** Dynamics, Optimal Control, Robotics Simulation  
+
+---
+
+### 📫 Contact
+- Email: yxlewis@seas.upenn.edu  
+- GitHub: [DasVade](https://github.com/DasVade)  
+- LinkedIn: *(optional)*  
