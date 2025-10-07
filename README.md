@@ -25,8 +25,6 @@ University of Pennsylvania | Shanghai Jiao Tong University (Joint Program)
 
 ### 📫 Contact
 - ✉️ Email: yxlewis@seas.upenn.edu  
-- 🌐 GitHub: [DasVade](https://github.com/DasVade)  
-- 🏫 University of Pennsylvania – MEAM Department  
 
 ---
 
