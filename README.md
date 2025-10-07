@@ -11,19 +11,7 @@ University of Pennsylvania | Shanghai Jiao Tong University (Joint Program)
 - **Physics-based Simulation** — rigid-body dynamics, kinematics, and optimization  
 - **Trajectory Optimization & MPC** — control for manipulators and underactuated systems  
 
----
 
-### 🧩 Selected Projects
-- [**UR16e Robot Dynamics**](https://github.com/DasVade/UR16e-Robot-Dynamics)  
-  MATLAB implementation of a 6-DOF UR16e manipulator’s forward and inverse dynamics.  
-  Includes analytical Jacobians, torque computation, and visualization of rigid-body motion.
-
-- [**Cartpole Control (LQR + Energy-based)**](https://github.com/DasVade/cartpole-control)  
-  Simulation of swing-up and stabilization using optimal control in Python / Drake.  
-  Focused on understanding nonlinear control stability and feedback gains.
-
-- [**Unicycle Path Planning**](https://github.com/DasVade/unicycle-planning)  
-  Cubic spline trajectory generation and dynamic feasibility analysis for mobile robots.
 
 ---
 
@@ -32,11 +20,6 @@ University of Pennsylvania | Shanghai Jiao Tong University (Joint Program)
 **Frameworks / Tools:** SolidWorks, Simulink, Git, Drake, NumPy, Matplotlib  
 **Core Topics:** Dynamics, Optimal Control, Robotics Simulation, System Modeling  
 
----
-
-### 📚 Current Goal
-Building a foundation in physics-informed learning and differentiable simulation  
-to bridge **robotic dynamics** and **AI-based perception**.  
 
 ---
 
