@@ -27,6 +27,3 @@ University of Pennsylvania | Shanghai Jiao Tong University (Joint Program)
 - ✉️ Email: yxlewis@seas.upenn.edu  
 
 ---
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasVade&layout=compact&theme=default)
