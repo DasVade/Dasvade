@@ -17,8 +17,8 @@ University of Pennsylvania | Shanghai Jiao Tong University (Joint Program)
 
 ### 🛠 Technical Skills
 **Languages:** Python, MATLAB, C++  
-**Frameworks / Tools:** SolidWorks, Simulink, Git, Drake, NumPy, Matplotlib  
-**Core Topics:** Dynamics, Optimal Control, Robotics Simulation, System Modeling  
+**Frameworks / Tools:** Pytorch, Git, NumPy, SolidWorks, Simulink
+**Core Topics:** Robotics Simulation, System Modeling, Dynamics, Optimal Control
 
 
 ---
