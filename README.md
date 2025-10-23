@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Yixiao Liu  
+#  Hi, I’m Yixiao Liu  
 
-🎓 **M.S. & B.S. Student in Mechanical Engineering**  
+ **M.S. & B.S. Student in Mechanical Engineering**  
 University of Pennsylvania | Shanghai Jiao Tong University (Joint Program)  
 
 ---
 
-### 🤖 Research & Interests
+###  Research & Interests
 - **Robotics Dynamics and Control** — modeling, simulation, and real-time implementation  
 - **Neural Representations for Robotics** — combining AI with physics-based models  
 - **Physics-based Simulation** — rigid-body dynamics, kinematics, and optimization  
@@ -15,7 +15,7 @@ University of Pennsylvania | Shanghai Jiao Tong University (Joint Program)
 
 ---
 
-### 🛠 Technical Skills
+###  Technical Skills
 **Languages:** Python, MATLAB, C++  
 **Frameworks / Tools:** Pytorch, Git, NumPy, SolidWorks, Simulink
 **Core Topics:** Robotics Simulation, System Modeling, Dynamics, Optimal Control
@@ -23,7 +23,7 @@ University of Pennsylvania | Shanghai Jiao Tong University (Joint Program)
 
 ---
 
-### 📫 Contact
+###  Contact
 - ✉️ Email: yxlewis@seas.upenn.edu  
 
 ---
