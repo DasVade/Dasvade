@@ -1,6 +1,6 @@
 #  Hi, I’m Yixiao Liu  
 
- **M.S. & B.S. Student in Mechanical Engineering**  
+🎓 **M.S. & B.S. Student in Mechanical Engineering**  
 University of Pennsylvania | Shanghai Jiao Tong University (Joint Program)  
 
 ---
