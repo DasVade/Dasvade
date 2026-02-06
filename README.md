@@ -3,10 +3,12 @@
 🎓 **M.S.E. & B.S. Student in Mechanical Engineering**  
 University of Pennsylvania | Shanghai Jiao Tong University (Joint Program)
 
+---
+
 I am a robotics researcher-in-training working at the intersection of **robotic perception, world models, and control**.  
 My interests focus on building **structured, physics-aware representations of the environment** that support prediction, planning, and decision-making for autonomous systems.
 
----
+
 
 ## Research Interests
 - **World Models for Robotics**  
@@ -18,7 +20,7 @@ My interests focus on building **structured, physics-aware representations of th
 - **Robotics Dynamics & Control**  
   Modeling, simulation, and control of robotic systems, including manipulators and nonlinear dynamics
 
----
+
 
 ## Technical Skills
 **Languages:** Python, MATLAB, C++  
@@ -28,7 +30,7 @@ My interests focus on building **structured, physics-aware representations of th
 **Research Tools:** Git, LaTeX, Bash/Shell, Linux, Vim, Simulink, SolidWorks
 
 
----
+
 
 ## Contact
 - ✉️ Email: yxlewis@seas.upenn.edu
