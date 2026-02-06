@@ -18,16 +18,15 @@ My interests focus on building **structured, physics-aware representations of th
 - **Robotics Dynamics & Control**  
   Modeling, simulation, and control of robotic systems, including manipulators and nonlinear dynamics
 
-- **Trajectory Optimization & MPC**  
-  Optimization-based control for robotic systems under physical and real-time constraints
-
 ---
 
 ## Technical Skills
 **Languages:** Python, MATLAB, C++  
 **ML / Vision:** PyTorch, Object Detection (YOLO), Multi-Object Tracking, 3D Vision  
 **Robotics & Control:** System Modeling, Dynamics, LQR, MPC, Simulation  
-**Tools:** Git, NumPy, Simulink, SolidWorks
+**Scientific Computing:** NumPy, SciPy, Matplotlib  
+**Research Tools:** Git, LaTeX, Bash/Shell, Linux, Vim, Simulink, SolidWorks
+
 
 ---
 
