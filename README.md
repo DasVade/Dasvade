@@ -1,3 +1,6 @@
+
+
+
 #  Hi, I’m Yixiao Liu  
 
 🎓 **M.S. & B.S. Student in Mechanical Engineering**  
@@ -18,7 +21,7 @@ University of Pennsylvania | Shanghai Jiao Tong University (Joint Program)
 ###  Technical Skills
 **Languages:** Python, MATLAB, C++  
 **Frameworks / Tools:** Pytorch, Git, NumPy, SolidWorks, Simulink
-**Core Topics:** Robotics Simulation, System Modeling, Dynamics, Optimal Control
+**Core Topics:** World model, 3D CV, Robotics, System Modeling, Dynamics and Control
 
 
 ---
